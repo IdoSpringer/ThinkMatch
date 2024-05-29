@@ -18,7 +18,7 @@ from src.utils.data_to_cuda import data_to_cuda
 
 from src.utils.config import cfg
 from pygmtools.benchmark import Benchmark
-
+# test if we can push this
 
 def train_eval_model(model,
                      criterion,
